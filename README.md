@@ -35,6 +35,18 @@ Using data from the St. Paul Police Department and NodeJs to host the databse on
 to search for previously filed crimes in the City of St. Paul. The user is also able to query the database for certain types of crimes in areas or 
 add crimes through the text fields on the application. We used Foundation CSS to improve the design of the application.
 
+Node.js Website:
+https://nodejs.org/en/about
+
+Vue.js Website:
+https://vuejs.org/
+
+Foundation Website:
+https://get.foundation/showcase/about.html
+
+LeaftletJS Website:
+https://leafletjs.com/
+
 Project Page:
 https://github.com/Jespr0/webdev-rest
 

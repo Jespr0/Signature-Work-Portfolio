@@ -22,18 +22,20 @@ dynamically change the size and location of HTML Elements through its XY Grid Sy
 in a seperate CSS file; It's main functionality is through creating a Grid Element in your HTML file, and using foundation
 to adjust elements with in line CSS.
 
-Foundation Website:
-https://get.foundation/showcase/about.html
-
 Project Page:
 https://github.com/Jespr0/Jespr0.github.io
 
+Foundation Website:
+https://get.foundation/showcase/about.html
 
 ### Crime Map and Restful Server:
 Another project from Web Design was creating a custom Single Page Application using Node.js, Vue.js, Foundation CSS, and the Leaftlet API. 
 Using data from the St. Paul Police Department and NodeJs to host the databse on a localhost server we created an application that was able
 to search for previously filed crimes in the City of St. Paul. The user is also able to query the database for certain types of crimes in areas or 
 add crimes through the text fields on the application. We used Foundation CSS to improve the design of the application.
+
+Project Page:
+https://github.com/Jespr0/webdev-rest
 
 Node.js Website:
 https://nodejs.org/en/about
@@ -47,7 +49,5 @@ https://get.foundation/showcase/about.html
 LeaftletJS Website:
 https://leafletjs.com/
 
-Project Page:
-https://github.com/Jespr0/webdev-rest
 
 
